@@ -3,7 +3,7 @@
 Essa documentação irá apresentar alguns 
 comandos básicos do Git.
 
-## Apêndice
+## Tópicos
 **Tópicos que serão apresentados:**
 
 - Configuração Inicial
